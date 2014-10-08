@@ -1,0 +1,229 @@
+#head
+{
+  margin: 0px;
+  width: 100%;  
+  height:43px;
+  background-image: url(images/bg2.png);
+  position: absolute;
+}
+#textBox{
+    width: 400px;
+    height: 18px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #141823;
+    font-size: 14px;
+    border-radius:5px;
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 15px;
+    border: solid white;
+}
+#logotype{
+    border-radius:5px;
+    border: solid white;
+    margin-left: 40px;
+    height:21px;
+    width: 21px;
+    margin-top: 8px;
+}
+#me, #main, #find{
+    color: white;
+    background: #3B5998;
+    border: #3B5998;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    height: 27px;
+    border-radius:2px;
+    margin-top: 5px;
+}
+#head_butt{
+    width: 305px;
+    height: 40px;
+    position: absolute;
+    top: 0px;
+    left: 605px;
+}
+body{
+    margin: 0px;
+    background-color: #E9EAED;
+}
+#lbl{
+   width: 840px;
+   height:100%;
+   margin-left: 40px;
+   background-color: #E9EAED;
+}
+#text{
+    background-image: url(images/bg1.jpg);
+    height: 205px;
+}
+#name{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    max-width: 275px;
+    color: white;
+    padding-left: 220px;
+    padding-top: 100px;
+}
+#fotoLas{
+    top:110px;
+    left: 80px;
+    position: absolute;
+}
+#variants{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align: right;
+    padding-right: 10px;
+    background-color: white;
+    height: 43px;
+    padding-top: 5px;
+}
+#b1,#b2, #b3, #b4{
+        background-color: white;
+        height: 43px;
+        border: solid white;
+        font-weight: bold;
+        font-size: 14px;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+#b1{
+    color: #37404E;
+}
+#b2, #b3, #b4{
+    color: #3B5998;
+}
+#reccomend{
+    font-size: 12px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color:#4E5665;
+    background-color: #F6F7F8;
+    padding-left: 14px;
+    margin-top:20px;
+    height: 40px;
+    border-right: 1px solid #DCDEE3;
+    border-top: 1px solid #DCDEE3;
+}
+#foto_friends{
+    background-color: white;
+    height: 180px;
+    border-right: 1px solid #DCDEE3;
+    border-bottom: 1px solid #DCDEE3;
+    text-align: center;
+}
+#one, #two, #three, #four, #five, #six{
+    margin: 18px;
+    border: 1px solid #DCDEE3;
+}
+#info{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    color:#4E5665;
+    width: 323px;
+    height:36px;
+    padding-left: 14px;
+    background-color: #F6F7F8;
+    margin-top: 20px;
+}
+#detailed{
+    padding-left: 14px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    height: 90%;
+    color: #6A7480;
+    width: 323px;
+    font-weight: bold;
+    background-color: white;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+#city, #vuz, #wh{
+    color: #3B5998;
+}
+#prev_study, #school, #vuz_prev{
+    color: #ADB3BC;
+}
+#marriage{
+    padding-bottom: 10px;
+}
+
+
+#rbl{
+    height:100%;
+    width: 160px;
+    position: absolute;
+    left: 880px;
+    top: 43px;
+    margin-left: 10px;
+    font-family: Verdana,Arial;
+    font-size: 12px;
+}
+#period{
+    margin-top: 5px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    width: 155px;
+}
+#rec, #y11, #y12, #y13, #y14, #BDa{
+    margin-bottom: 5px;
+}
+a{
+    color: gray;
+    text-decoration: none;
+}
+a:hover{
+    color: gray;
+    text-decoration: underline;
+}
+#adv{
+    color: gray;
+    margin-top: 20px;
+        width: 155px;
+}
+#bl1_text, #bl2_text{
+    font-family: Helvetica,Arial,"Lucida Grande",sans-serif;
+    color: #141823;
+}
+#bl1, #bl2{
+    padding-bottom: 5px;
+}
+#sep{
+    border: 0px;
+    background: #DCDEE3;
+    width: 80%;
+}
+#rb2{
+    height:100%;
+    width: 180px;
+    background: #E7EBF2;
+    position: absolute;
+    left: 170px;
+    top: 0px;
+    font-size: 12px;
+    border-left: 1px solid #DCDEE3;
+    border-right: 1px solid #DCDEE3;
+}
+#friends{
+        width: 160px;
+        margin-left: 5px;
+        margin-right: 10px;
+}
+#f1,#f2,#f3,#f4,#f5,#f6,#f7,#f8,#f9,#f10{
+    height: 32px;
+    margin-top: 5px;
+    margin-left: 5px;
+    color:#141823;
+}
+#foot{
+    text-align: center;
+    font-family: Verdana,Arial;
+    font-size: 10px;
+    color: gray;
+    background-color: #F6F7F8;
+    height: 50px;
+    padding-top: 22px;
+    width: 100%;
+    position: absolute;
+}
